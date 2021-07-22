@@ -1,0 +1,103 @@
+Programming Paradigm:
+
+1. Procedural Programming - Program - divide into functions/particular task - achieve reusability
+	- C programming language
+
+int a, b;
+add(){
+a + b;
+}
+
+sub(){
+a - b;
+}
+
+div(){
+a / b;
+}
+
+mul(){
+a * b;
+}
+
+sin(){
+float a;
+}
+
+2. Object Oriented Programming 
+	- class and object
+	- class - category, layout, blueprint
+	e.g: Human Class, object any person
+	- C++, C#, Java, Javascript
+Class A {
+int a, b;
+add(){
+a + b;
+}
+
+sub(){
+a - b;
+}
+
+div(){
+a / b;
+}
+
+mul(){
+a * b;
+}
+}
+
+class B {
+sin(){
+float a;
+}
+}
+
+C#:
+
+1. Basics of C#: data types, variables, functions, operators, loops, arrays
+2. OOPs in C#: 
+	- Class and object
+	- Inheritance
+	- Polymorphism
+	- Encapsulation
+	- Data Hiding
+
+3. Advanced Features in C#
+	- Exception Handling
+	- Generic 
+	- Collections (Predefined DS)
+
+Unity:
+- Unity Technologies
+- Customization
+- C#
+- 2D(Project) and 3D(Project)
+
+Unreal:
+- Epic Games Launcher
+- Unreal Engine 4
+- Blueprint - Fast Programming (Drag and Drop)
+- 3D (Project)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

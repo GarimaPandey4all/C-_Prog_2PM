@@ -1,0 +1,25 @@
+C# Programming Language
+
+Programming: set of instructions and set or statements
+
+a = 5
+b = 10
+
+a + b
+a / b
+
+Language: Medium of Communication
+
+Human (Source Code) C# ---> Compiler (Translator) --- > Computer System
+English				Binary(2 --> 0 or 1)(Machine Code)
+
+
+Compiler: English convert into binary language
+
+Computer System: Binary Language
+
+-System --> Electronic Device --> Current flow (1) -->No Current Flow (0)
+
+
+English               --->             Binary
+High Level Language			Low Level Language

@@ -1,0 +1,23 @@
+Unity:
+
+- first released in 2005 by unity technologies
+
+- 2D
+- 3D
+
+Script- C#
+
+1. C# - Programming Langauge
+	
+- Basics of C#: Variables, Data Types, Functions, Operators, Arrays, Loops
+- OOPS
+	- Class and Object
+	- Inheritance
+	- Polymorphism
+	- Encapsulation and Data Hiding
+- Exception Handling
+
+2. Unity - 2D - Features
+	- 2D Game Project
+
+3. Unity - 3D - Game Project - Animation

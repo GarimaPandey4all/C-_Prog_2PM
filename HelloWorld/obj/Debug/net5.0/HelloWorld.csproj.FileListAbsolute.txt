@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
