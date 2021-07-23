@@ -1,0 +1,22 @@
+C# - Set Up:
+
+- Visual Studio Code
+- C3 Extensions - Installed in VS Code
+- .Net Core SDK - Installed
+
+Terminal == Console == Output Screen
+
+commands: First Program in C# in VS Code:
+
+1. mkdir (Make Directory/Folder): Create a folder
+2. cd (Change Directory)
+3. C# Project:
+	a) dotnet new console - create a C# project
+	b) dotnet run - Execute the code
+
+class - Logical Entity
+e.g: Human
+Action: play, hit, etc
+object - Physical Entity
+
+Function or Procedure or Method: Particular Task

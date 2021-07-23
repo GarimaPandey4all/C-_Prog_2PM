@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\bin\Debug\net5.0\Demo.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\bin\Debug\net5.0\Demo.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\bin\Debug\net5.0\Demo.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\bin\Debug\net5.0\ref\Demo.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\bin\Debug\net5.0\Demo.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\obj\Debug\net5.0\Demo.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\obj\Debug\net5.0\Demo.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\obj\Debug\net5.0\ref\Demo.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\obj\Debug\net5.0\Demo.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
