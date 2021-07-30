@@ -1,0 +1,16 @@
+Type Conversion or Type Casting
+- Converting one data type into another data type.
+
+Two Types of type Conversion:
+
+1. Implicit Type casting/Automatically
+- converting a smaller type into a larger type
+
+Example: char(2 bytes) --> int(4 bytes)
+
+1 byte = 8 bits (01010101)
+
+2. Explicit Type casting/Manually
+- converting a larger type into a smaller type
+
+Example: double (8 bytes) --> int (4 bytes)

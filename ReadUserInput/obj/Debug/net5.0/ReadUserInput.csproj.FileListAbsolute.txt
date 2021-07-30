@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\bin\Debug\net5.0\ReadUserInput.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\bin\Debug\net5.0\ReadUserInput.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\bin\Debug\net5.0\ReadUserInput.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\bin\Debug\net5.0\ReadUserInput.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\bin\Debug\net5.0\ReadUserInput.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\bin\Debug\net5.0\ref\ReadUserInput.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\bin\Debug\net5.0\ReadUserInput.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\obj\Debug\net5.0\ReadUserInput.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\obj\Debug\net5.0\ReadUserInput.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\obj\Debug\net5.0\ReadUserInput.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\obj\Debug\net5.0\ReadUserInput.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\obj\Debug\net5.0\ReadUserInput.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\obj\Debug\net5.0\ReadUserInput.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\obj\Debug\net5.0\ref\ReadUserInput.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\obj\Debug\net5.0\ReadUserInput.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\ReadUserInput\obj\Debug\net5.0\ReadUserInput.genruntimeconfig.cache

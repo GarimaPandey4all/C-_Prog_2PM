@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\bin\Debug\net5.0\TypeConversion.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\bin\Debug\net5.0\TypeConversion.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\bin\Debug\net5.0\TypeConversion.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\bin\Debug\net5.0\TypeConversion.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\bin\Debug\net5.0\TypeConversion.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\bin\Debug\net5.0\ref\TypeConversion.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\bin\Debug\net5.0\TypeConversion.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\obj\Debug\net5.0\TypeConversion.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\obj\Debug\net5.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\obj\Debug\net5.0\TypeConversion.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\obj\Debug\net5.0\TypeConversion.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\obj\Debug\net5.0\TypeConversion.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\obj\Debug\net5.0\TypeConversion.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\obj\Debug\net5.0\ref\TypeConversion.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\obj\Debug\net5.0\TypeConversion.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\TypeConversion\obj\Debug\net5.0\TypeConversion.genruntimeconfig.cache
