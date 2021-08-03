@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\bin\Debug\net5.0\RelationalOperator.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\bin\Debug\net5.0\RelationalOperator.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\bin\Debug\net5.0\RelationalOperator.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\bin\Debug\net5.0\RelationalOperator.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\bin\Debug\net5.0\RelationalOperator.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\bin\Debug\net5.0\ref\RelationalOperator.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\bin\Debug\net5.0\RelationalOperator.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\obj\Debug\net5.0\RelationalOperator.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\obj\Debug\net5.0\RelationalOperator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\obj\Debug\net5.0\RelationalOperator.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\obj\Debug\net5.0\RelationalOperator.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\obj\Debug\net5.0\RelationalOperator.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\obj\Debug\net5.0\RelationalOperator.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\obj\Debug\net5.0\ref\RelationalOperator.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\obj\Debug\net5.0\RelationalOperator.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\RelationalOperator\obj\Debug\net5.0\RelationalOperator.genruntimeconfig.cache
