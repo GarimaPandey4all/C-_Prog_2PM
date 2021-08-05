@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\bin\Debug\net5.0\BitwiseOperators.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\bin\Debug\net5.0\BitwiseOperators.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\bin\Debug\net5.0\BitwiseOperators.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\bin\Debug\net5.0\BitwiseOperators.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\bin\Debug\net5.0\BitwiseOperators.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\bin\Debug\net5.0\ref\BitwiseOperators.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\bin\Debug\net5.0\BitwiseOperators.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\obj\Debug\net5.0\BitwiseOperators.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\obj\Debug\net5.0\BitwiseOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\obj\Debug\net5.0\BitwiseOperators.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\obj\Debug\net5.0\BitwiseOperators.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\obj\Debug\net5.0\BitwiseOperators.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\obj\Debug\net5.0\BitwiseOperators.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\obj\Debug\net5.0\ref\BitwiseOperators.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\obj\Debug\net5.0\BitwiseOperators.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\BitwiseOperators\obj\Debug\net5.0\BitwiseOperators.genruntimeconfig.cache
