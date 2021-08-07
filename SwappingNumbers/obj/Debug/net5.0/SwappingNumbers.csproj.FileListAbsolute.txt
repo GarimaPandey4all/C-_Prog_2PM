@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\bin\Debug\net5.0\SwappingNumbers.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\bin\Debug\net5.0\SwappingNumbers.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\bin\Debug\net5.0\SwappingNumbers.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\bin\Debug\net5.0\SwappingNumbers.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\bin\Debug\net5.0\SwappingNumbers.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\bin\Debug\net5.0\ref\SwappingNumbers.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\bin\Debug\net5.0\SwappingNumbers.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\obj\Debug\net5.0\SwappingNumbers.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\obj\Debug\net5.0\SwappingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\obj\Debug\net5.0\SwappingNumbers.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\obj\Debug\net5.0\SwappingNumbers.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\obj\Debug\net5.0\SwappingNumbers.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\obj\Debug\net5.0\SwappingNumbers.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\obj\Debug\net5.0\ref\SwappingNumbers.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\obj\Debug\net5.0\SwappingNumbers.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\SwappingNumbers\obj\Debug\net5.0\SwappingNumbers.genruntimeconfig.cache

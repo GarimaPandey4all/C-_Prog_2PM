@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\bin\Debug\net5.0\DecisionMaking.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\bin\Debug\net5.0\DecisionMaking.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\bin\Debug\net5.0\DecisionMaking.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\bin\Debug\net5.0\DecisionMaking.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\bin\Debug\net5.0\DecisionMaking.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\bin\Debug\net5.0\ref\DecisionMaking.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\bin\Debug\net5.0\DecisionMaking.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\obj\Debug\net5.0\DecisionMaking.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\obj\Debug\net5.0\DecisionMaking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\obj\Debug\net5.0\DecisionMaking.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\obj\Debug\net5.0\DecisionMaking.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\obj\Debug\net5.0\DecisionMaking.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\obj\Debug\net5.0\DecisionMaking.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\obj\Debug\net5.0\ref\DecisionMaking.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\obj\Debug\net5.0\DecisionMaking.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\DecisionMaking\obj\Debug\net5.0\DecisionMaking.genruntimeconfig.cache
