@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\obj\Debug\net5.0\Switch.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\obj\Debug\net5.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\obj\Debug\net5.0\Switch.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\obj\Debug\net5.0\Switch.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\obj\Debug\net5.0\Switch.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\bin\Debug\net5.0\Switch.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\bin\Debug\net5.0\Switch.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\bin\Debug\net5.0\Switch.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\bin\Debug\net5.0\Switch.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\bin\Debug\net5.0\Switch.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\bin\Debug\net5.0\ref\Switch.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\bin\Debug\net5.0\Switch.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\obj\Debug\net5.0\Switch.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\obj\Debug\net5.0\ref\Switch.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\obj\Debug\net5.0\Switch.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Switch\obj\Debug\net5.0\Switch.genruntimeconfig.cache

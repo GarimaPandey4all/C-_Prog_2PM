@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\bin\Debug\net5.0\Loops.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\bin\Debug\net5.0\Loops.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\bin\Debug\net5.0\Loops.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\bin\Debug\net5.0\ref\Loops.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\bin\Debug\net5.0\Loops.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\obj\Debug\net5.0\Loops.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\obj\Debug\net5.0\Loops.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\obj\Debug\net5.0\ref\Loops.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\obj\Debug\net5.0\Loops.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache
