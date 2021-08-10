@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\bin\Debug\net5.0\ForLoop.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\bin\Debug\net5.0\ForLoop.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\obj\Debug\net5.0\ForLoop.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\obj\Debug\net5.0\ForLoop.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\bin\Debug\net5.0\WhileLoop.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\bin\Debug\net5.0\WhileLoop.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\bin\Debug\net5.0\WhileLoop.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\bin\Debug\net5.0\WhileLoop.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\bin\Debug\net5.0\WhileLoop.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\bin\Debug\net5.0\ref\WhileLoop.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\bin\Debug\net5.0\WhileLoop.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\obj\Debug\net5.0\WhileLoop.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\obj\Debug\net5.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\obj\Debug\net5.0\WhileLoop.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\obj\Debug\net5.0\WhileLoop.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\obj\Debug\net5.0\ref\WhileLoop.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\obj\Debug\net5.0\WhileLoop.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\WhileLoop\obj\Debug\net5.0\WhileLoop.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\bin\Debug\net5.0\ref\DoWhileLoop.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\obj\Debug\net5.0\ref\DoWhileLoop.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.genruntimeconfig.cache
