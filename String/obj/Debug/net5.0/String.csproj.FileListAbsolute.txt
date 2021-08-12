@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\bin\Debug\net5.0\String.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\bin\Debug\net5.0\String.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\bin\Debug\net5.0\String.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\bin\Debug\net5.0\String.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\bin\Debug\net5.0\String.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\bin\Debug\net5.0\ref\String.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\bin\Debug\net5.0\String.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\obj\Debug\net5.0\String.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\obj\Debug\net5.0\String.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\obj\Debug\net5.0\String.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\obj\Debug\net5.0\String.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\obj\Debug\net5.0\String.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\obj\Debug\net5.0\String.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\obj\Debug\net5.0\ref\String.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\obj\Debug\net5.0\String.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\String\obj\Debug\net5.0\String.genruntimeconfig.cache

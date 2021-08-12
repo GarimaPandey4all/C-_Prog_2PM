@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\obj\Debug\net5.0\MathFunctions.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\obj\Debug\net5.0\MathFunctions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\obj\Debug\net5.0\MathFunctions.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\obj\Debug\net5.0\MathFunctions.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\obj\Debug\net5.0\MathFunctions.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\bin\Debug\net5.0\MathFunctions.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\bin\Debug\net5.0\MathFunctions.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\bin\Debug\net5.0\MathFunctions.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\bin\Debug\net5.0\MathFunctions.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\bin\Debug\net5.0\MathFunctions.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\bin\Debug\net5.0\ref\MathFunctions.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\bin\Debug\net5.0\MathFunctions.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\obj\Debug\net5.0\MathFunctions.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\obj\Debug\net5.0\ref\MathFunctions.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\obj\Debug\net5.0\MathFunctions.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\MathFunctions\obj\Debug\net5.0\MathFunctions.genruntimeconfig.cache
