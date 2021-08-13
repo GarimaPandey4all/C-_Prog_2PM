@@ -1,0 +1,100 @@
+Loops: Pattern Programs
+
+*****
+*****
+*****
+*****
+*****
+
+rows = 5
+cols = 5
+
+11111
+22222
+33333
+44444
+55555
+
+12345
+12345
+12345
+12345
+12345
+
+AAAAA
+BBBBB
+CCCCC
+DDDDD
+EEEEE
+
+ABCDE
+ABCDE
+ABCDE
+ABCDE
+ABCDE
+
+Assignment - 1:
+
+1.
+aaaaa
+bbbbb
+ccccc
+ddddd
+eeeee
+
+2. 
+abcde
+abcde
+abcde
+abcde
+abcde
+
+3. 
+55555
+44444
+33333
+22222
+11111
+
+4. 
+54321
+54321
+54321
+54321
+54321
+
+5. 
+EEEEE
+DDDDD
+CCCCC
+BBBBB
+AAAAA
+
+6.
+
+EDCBA
+EDCBA
+EDCBA
+EDCBA
+EDCBA
+
+7. 
+eeeee
+ddddd
+ccccc
+bbbbb
+aaaaa
+
+8. 
+edcba
+edcba
+edcba
+edcba
+edcba
+
+1. Factorial Number
+n = 5!
+
+n = 5! = 5 * 4 * 3 * 2 * 1 = 120
+n = 3! = 3 * 2 * 1 = 6
+n = 6! = 6 * 5 * 4 * 3 * 2 * 1 = 720 
