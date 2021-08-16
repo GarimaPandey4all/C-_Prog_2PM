@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\bin\Debug\net5.0\SumofDigits.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\bin\Debug\net5.0\SumofDigits.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\bin\Debug\net5.0\SumofDigits.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\bin\Debug\net5.0\SumofDigits.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\bin\Debug\net5.0\SumofDigits.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\bin\Debug\net5.0\ref\SumofDigits.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\bin\Debug\net5.0\SumofDigits.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\obj\Debug\net5.0\SumofDigits.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\obj\Debug\net5.0\SumofDigits.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\obj\Debug\net5.0\SumofDigits.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\obj\Debug\net5.0\SumofDigits.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\obj\Debug\net5.0\SumofDigits.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\obj\Debug\net5.0\SumofDigits.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\obj\Debug\net5.0\ref\SumofDigits.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\obj\Debug\net5.0\SumofDigits.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\SumofDigits\obj\Debug\net5.0\SumofDigits.genruntimeconfig.cache

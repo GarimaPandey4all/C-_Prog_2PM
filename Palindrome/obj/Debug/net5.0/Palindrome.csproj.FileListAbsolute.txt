@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\bin\Debug\net5.0\Palindrome.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\bin\Debug\net5.0\Palindrome.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\bin\Debug\net5.0\Palindrome.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\bin\Debug\net5.0\ref\Palindrome.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\bin\Debug\net5.0\Palindrome.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\obj\Debug\net5.0\Palindrome.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\obj\Debug\net5.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\obj\Debug\net5.0\Palindrome.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\obj\Debug\net5.0\Palindrome.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\obj\Debug\net5.0\ref\Palindrome.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\obj\Debug\net5.0\Palindrome.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Palindrome\obj\Debug\net5.0\Palindrome.genruntimeconfig.cache
