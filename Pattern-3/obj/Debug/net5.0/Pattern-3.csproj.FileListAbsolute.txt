@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\bin\Debug\net5.0\Pattern-3.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\bin\Debug\net5.0\Pattern-3.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\bin\Debug\net5.0\Pattern-3.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\bin\Debug\net5.0\Pattern-3.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\bin\Debug\net5.0\Pattern-3.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\bin\Debug\net5.0\ref\Pattern-3.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\bin\Debug\net5.0\Pattern-3.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\obj\Debug\net5.0\Pattern-3.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\obj\Debug\net5.0\Pattern-3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\obj\Debug\net5.0\Pattern-3.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\obj\Debug\net5.0\Pattern-3.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\obj\Debug\net5.0\Pattern-3.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\obj\Debug\net5.0\Pattern-3.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\obj\Debug\net5.0\ref\Pattern-3.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\obj\Debug\net5.0\Pattern-3.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Pattern-3\obj\Debug\net5.0\Pattern-3.genruntimeconfig.cache
