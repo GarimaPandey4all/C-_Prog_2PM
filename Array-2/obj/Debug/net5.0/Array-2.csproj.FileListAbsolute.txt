@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\obj\Debug\net5.0\Array-2.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\obj\Debug\net5.0\Array-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\obj\Debug\net5.0\Array-2.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\obj\Debug\net5.0\Array-2.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\obj\Debug\net5.0\Array-2.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\bin\Debug\net5.0\Array-2.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\bin\Debug\net5.0\Array-2.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\bin\Debug\net5.0\Array-2.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\bin\Debug\net5.0\Array-2.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\bin\Debug\net5.0\Array-2.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\bin\Debug\net5.0\ref\Array-2.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\bin\Debug\net5.0\Array-2.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\obj\Debug\net5.0\Array-2.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\obj\Debug\net5.0\ref\Array-2.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\obj\Debug\net5.0\Array-2.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Array-2\obj\Debug\net5.0\Array-2.genruntimeconfig.cache
