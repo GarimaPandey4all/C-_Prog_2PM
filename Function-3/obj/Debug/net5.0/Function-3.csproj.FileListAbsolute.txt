@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\bin\Debug\net5.0\Function-3.exe
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\bin\Debug\net5.0\Function-3.deps.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\bin\Debug\net5.0\Function-3.runtimeconfig.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\bin\Debug\net5.0\Function-3.runtimeconfig.dev.json
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\bin\Debug\net5.0\Function-3.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\bin\Debug\net5.0\ref\Function-3.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\bin\Debug\net5.0\Function-3.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\obj\Debug\net5.0\Function-3.csprojAssemblyReference.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\obj\Debug\net5.0\Function-3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\obj\Debug\net5.0\Function-3.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\obj\Debug\net5.0\Function-3.AssemblyInfo.cs
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\obj\Debug\net5.0\Function-3.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\obj\Debug\net5.0\Function-3.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\obj\Debug\net5.0\ref\Function-3.dll
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\obj\Debug\net5.0\Function-3.pdb
+E:\Notes\Training\C#\Prog-July-2021\Programs\Function-3\obj\Debug\net5.0\Function-3.genruntimeconfig.cache
